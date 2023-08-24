@@ -70,7 +70,7 @@ The provided Java code demonstrates how to use this email newsletter template wi
 
 5. You can find the complete source code for this HTML email newsletter template in the following Java class:
 
-[NewsLetterBasicTemplate.java](src/main/java/com/gyawaliamit/spring/html/generator/templates/email/NewsLetterBasicTemplate.java)
+[NewsLetterBasicTemplate.java](https://github.com/gyawaliamit7/spring-html-generator/tree/main/src/main/java/com/gyawaliamit/spring/html/generator/templates/email/NewsLetterBasicTemplate.java)
 
 Feel free to use this template as a foundation for creating your own email newsletters and customize it to suit your specific newsletter content and branding needs.
 

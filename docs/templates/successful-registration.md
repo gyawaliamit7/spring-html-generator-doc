@@ -48,6 +48,6 @@ This email template is a helpful starting point for creating professional and vi
 
 
 You can access the complete source code for this HTML email template in the Java class named
-[RegistrationSuccessBasic.java](src/main/java/com/gyawaliamit/spring/html/generator/templates/email/RegistrationSuccessBasic.java). This class is a valuable resource for understanding how the template is structured and how it can be customized to suit your specific needs.
+[RegistrationSuccessBasic.java](https://github.com/gyawaliamit7/spring-html-generator/tree/main/src/main/java/com/gyawaliamit/spring/html/generator/templates/email/RegistrationSuccessBasic.java). This class is a valuable resource for understanding how the template is structured and how it can be customized to suit your specific needs.
 
 Feel free to utilize this template as a foundational framework for creating your own email notifications. You can modify the content, styling, and functionality as necessary to tailor it to your application's requirements. It serves as a convenient starting point for crafting professional and effective email communications with your users.
