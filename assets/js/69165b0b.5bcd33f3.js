@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkspring_html_generator_doc=self.webpackChunkspring_html_generator_doc||[]).push([[709],{9169:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/spring-html-generator-doc/blog/tags/facebook","allTagsPath":"/spring-html-generator-doc/blog/tags","count":1}')}}]);
